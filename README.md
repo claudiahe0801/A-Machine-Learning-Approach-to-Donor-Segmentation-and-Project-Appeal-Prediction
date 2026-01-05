@@ -7,7 +7,6 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)](#predictive-modeling)
 [![K-Means](https://img.shields.io/badge/K--Means-FF6B6B?style=for-the-badge&logo=cluster&logoColor=white)](#donor-segmentation)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 *A comprehensive data science project combining predictive modeling and customer segmentation to optimize charitable fundraising strategies.*
 
