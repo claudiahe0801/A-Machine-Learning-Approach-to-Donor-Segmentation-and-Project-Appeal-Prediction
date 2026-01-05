@@ -11,8 +11,6 @@
 
 *A comprehensive data science project combining predictive modeling and customer segmentation to optimize charitable fundraising strategies.*
 
-[📊 View Interactive Analysis](./DonorAnalysis.html) · [📄 Read Full Report](./DonorAnalysisReport.pdf) · [🌐 Portfolio Website](#)
-
 </div>
 
 ---
@@ -219,15 +217,6 @@ browseURL("DonorAnalysis.html")
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 **⭐ If you found this project helpful, please consider giving it a star!**
